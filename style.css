@@ -1,0 +1,21 @@
+th{
+    font-family: cursive;
+    background-color: aquamarine;
+}
+
+td{
+    font-family: monospace;
+    font-size:large;
+    background-color: lavender;
+}
+
+table{
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: yellowgreen;
+}
+
+td:hover{
+    color: white;
+}
